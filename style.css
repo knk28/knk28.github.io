@@ -27,6 +27,16 @@ h2 h3 h4 {
   font-family: 'Jomolhari', serif
 }
 
+linav a {
+  display: block;
+  color: green;
+}
+
+navmi a {
+  display: block;
+  color: green;
+}
+
 #headshot {
   display: block;
   margin: auto auto auto auto;
@@ -68,7 +78,7 @@ linav a:hover {
   color: green;
 }
 
-nav a:hover{
+navmi a:hover{
   color: green;
 }
 
@@ -76,6 +86,6 @@ linav a:active{
   color: white;
 }
 
-nav a:active{
+navmi a:active{
   color: white;
 }
