@@ -82,10 +82,10 @@ article {
   background-color: rgba(178, 36, 243, 0.48);
 }
 
-.linav a:visited{
+.linav a:active{
   background-color: pink;
 }
 
-.navmi a:visited{
+.navmi a:active{
   background-color: pink;
 }
