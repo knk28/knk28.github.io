@@ -22,16 +22,9 @@ header h1 {
   font-weight: 900;
 }
 
-#contact-info {
-  border-style: solid;
-  border-width: 2px;
-  border-color: rgba(0, 0, 0, 1);
-}
-
 #headshot {
-  border-top:
-  margin: 0;
-  overflow: auto;
+  display: block;
+  margin: auto;
 }
 
 h2 h3 h4 {
