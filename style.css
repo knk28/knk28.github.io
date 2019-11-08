@@ -15,3 +15,9 @@ header {
   line-height: 1.5;
   font-weight: 900;
 }
+
+#headshot {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
