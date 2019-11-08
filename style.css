@@ -2,8 +2,14 @@
 html{
   font-size: 16px;
 }
+
 header {
   font-family: 'Playfair Display', serif;
   line-height: 1.5;
   font-weight: 900;
+}
+
+#amblyotech {
+  border-style: solid;
+  border-color: red; 
 }
