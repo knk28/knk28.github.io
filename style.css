@@ -29,3 +29,23 @@ h2 {
   color: rgba(0, 0, 0, 1);
   font-family: 'Jomolhari', serif
 }
+
+.header {
+  grid-area: header;
+}
+
+.contact-info{
+  grid-area: contact-info;
+}
+
+.education {
+  grid-area: education;
+}
+
+.work-experience {
+  grid-area: work-experience;
+}
+
+.skills-and-interests{
+  grid-area: skills-and-interests;
+}
