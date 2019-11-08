@@ -77,17 +77,17 @@ article {
 }
 
 linav a:hover {
-  color: green;
+  background-color: blue;
 }
 
 navmi a:hover{
-  color: green;
+  background-color: blue;
 }
 
 linav a:active{
-  color: white;
+  background-color: pink;
 }
 
 navmi a:active{
-  color: white;
+  background-color: pink;
 }
