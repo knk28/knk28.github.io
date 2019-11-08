@@ -8,6 +8,7 @@ body {
   background-color: rgba(125, 142, 226, 0.79);
   color: rgba(0, 0, 0, 1);
   font-family: 'Jomolhari', serif;
+  margin: 20px;
 }
 
 header {
