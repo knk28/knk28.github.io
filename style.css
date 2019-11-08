@@ -65,17 +65,17 @@ article {
 }
 
 linav a:hover {
-  background-color: green;
+  color: green;
 }
 
 nav a:hover{
-  background-color: green;
+  color: green;
 }
 
 linav a:active{
-  background-color: white;
+  color: white;
 }
 
 nav a:active{
-  background-color: white;
+  color: white;
 }
