@@ -23,7 +23,7 @@ header h1 {
 }
 
 #headshot {
-  display: block;
+  display: flex;
   margin: auto;
 }
 
