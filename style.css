@@ -23,8 +23,9 @@ header h1 {
 }
 
 #headshot {
-  display: flex;
+  display: block;
   margin: auto auto auto auto;
+  width: 45%;
 }
 
 h2 h3 h4 {
@@ -33,10 +34,12 @@ h2 h3 h4 {
 }
 
 section {
+  display: block;
   grid-gap: 2px;
 }
 
 article {
+  display: block;
   grid-gap: 1px;
 }
 
