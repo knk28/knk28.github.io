@@ -29,14 +29,12 @@ h2 h3 h4 {
 
 .linav a {
   display: block;
-  color: green;
-  padding: 14px 16px
+  color: white;
 }
 
 .navmi a {
   display: block;
-  color: green;
-  padding: 14px 16px;
+  color: white;
 }
 
 #headshot {
@@ -77,17 +75,17 @@ article {
 }
 
 .linav a:hover {
-  background-color: blue;
+  background-color: rgba(178, 36, 243, 0.48);
 }
 
 .navmi a:hover{
-  background-color: blue;
+  background-color: rgba(178, 36, 243, 0.48);
 }
 
-.linav a:active{
+.linav a:visited{
   background-color: pink;
 }
 
-.navmi a:active{
+.navmi a:visited{
   background-color: pink;
 }
