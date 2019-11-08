@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Jomolhari|Playfair+Display:900&display=swap');
 
-header h1 {
+header {
   font-family: 'Playfair Display', serif;
-  font-size: 25px;
-  color: red;
+  line-height: 1.5;
+  font-weight: 900;
 }
