@@ -24,7 +24,7 @@ header h1 {
 
 #headshot {
   display: flex;
-  margin: auto;
+  margin: auto auto auto auto;
 }
 
 h2 h3 h4 {
