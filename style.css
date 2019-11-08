@@ -22,16 +22,24 @@ header h1 {
   font-weight: 900;
 }
 
+h2 h3 h4 {
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Jomolhari', serif
+}
+
+nav {
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Jomolhari', serif
+  text-align: center;
+
+}
+
 #headshot {
   display: block;
   margin: auto auto auto auto;
   width: 45%;
 }
 
-h2 h3 h4 {
-  color: rgba(0, 0, 0, 1);
-  font-family: 'Jomolhari', serif
-}
 
 section {
   display: block;
