@@ -27,13 +27,13 @@ h2 h3 h4 {
   font-family: 'Jomolhari', serif
 }
 
-linav a {
+.linav a {
   display: block;
   color: green;
   padding: 14px 16px
 }
 
-navmi a {
+.navmi a {
   display: block;
   color: green;
   padding: 14px 16px;
@@ -76,18 +76,18 @@ article {
   grid-area: skills-and-interests;
 }
 
-linav a:hover {
+.linav a:hover {
   background-color: blue;
 }
 
-navmi a:hover{
+.navmi a:hover{
   background-color: blue;
 }
 
-linav a:active{
+.linav a:active{
   background-color: pink;
 }
 
-navmi a:active{
+.navmi a:active{
   background-color: pink;
 }
