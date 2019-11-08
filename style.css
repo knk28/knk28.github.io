@@ -6,9 +6,8 @@ html{
 
 body{
   background-color: rgba(125, 142, 226, 0.79);
-  color: rgba(13, 12, 12, 0.79);
+  color: rgba(0, 0, 0, 1.00);
   font-family: 'Jomolhari', serif;
-  padding: 5%;
 }
 
 header {
