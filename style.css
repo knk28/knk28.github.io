@@ -23,8 +23,9 @@ header h1 {
 }
 
 #headshot {
+  border-top:
   margin: 0;
-  overflow: hidden;
+  overflow: auto;
 }
 
 h2 h3 h4 {
@@ -32,22 +33,30 @@ h2 h3 h4 {
   font-family: 'Jomolhari', serif
 }
 
-.header {
+section {
+  grid-gap: 2px;
+}
+
+article {
+  grid-gap: 1px;
+}
+
+#header {
   grid-area: header;
 }
 
-.contact-info{
+#contact-info{
   grid-area: contact-info;
 }
 
-.education {
+#education {
   grid-area: education;
 }
 
-.work-experience {
+#work-experience {
   grid-area: work-experience;
 }
 
-.skills-and-interests{
+#skills-and-interests{
   grid-area: skills-and-interests;
 }
