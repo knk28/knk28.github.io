@@ -3,13 +3,15 @@ html{
   font-size: 16px;
 }
 
+body{
+  background-color: rgba(125, 142, 226, 0.79);
+  color: rgba(13, 12, 12, 0.79);
+  font-family: 'Jomolhari', serif;
+  padding: 5%;
+}
+
 header {
   font-family: 'Playfair Display', serif;
   line-height: 1.5;
   font-weight: 900;
-}
-
-#amblyotech {
-  border-style: solid;
-  border-color: red; 
 }
