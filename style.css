@@ -30,11 +30,13 @@ h2 h3 h4 {
 linav a {
   display: block;
   color: green;
+  padding: 14px 16px
 }
 
 navmi a {
   display: block;
   color: green;
+  padding: 14px 16px;
 }
 
 #headshot {
