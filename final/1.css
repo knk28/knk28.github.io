@@ -1,6 +1,3 @@
 body {
-  background-color: rgba(125, 142, 226, 0.79);
-  margin: 20px;
-  padding: 1%;
-  max-width: 960px;
+  background-image: image('/Images/background.png');
 }
