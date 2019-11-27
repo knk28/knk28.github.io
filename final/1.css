@@ -1,5 +1,13 @@
+
 body {
   background-image: url('/Images/background.png');
   background-attachment: fixed;
   background-size: cover;
+}
+
+#homepage {
+  display: grid;
+  max-width: 960px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 100px 100px;
 }
