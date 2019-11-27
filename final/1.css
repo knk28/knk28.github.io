@@ -5,9 +5,8 @@ body {
   background-size: cover;
 }
 
-#homepage .grid {
+#homepage {
   display: grid;
-  max-width: 960px;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 100px 100px;
+  grid-auto-rows: 100px;
 }
