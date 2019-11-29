@@ -9,6 +9,7 @@ body {
   display: grid;
   grid-template-columns: 275px 275px 275px;
   grid-template-rows: 200px 150px;
+  grid-gap: 10px;
   max-width: 960px;
   grid-template-areas:
   "mainhead mainhead mainhead"
