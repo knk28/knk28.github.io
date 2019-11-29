@@ -26,6 +26,6 @@ body {
 
 #nav1 li {
   display: inline;
-  margin-right: 100px;
-  
+  margin-right: 50px 50px 100px;
+
 }
