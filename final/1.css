@@ -24,8 +24,7 @@ body {
   grid-area: nav1;
 }
 
-#nav1 li {
+#nav1 ul{
+  list-style-type: none;
   display: inline;
-  margin-right: 50px 50px 100px;
-
 }
