@@ -32,6 +32,7 @@ body {
 #nav1 li{
   display: inline;
   font-family: 'Josefin Slab', serif;
+  font-size: 15px;
 }
 
 #nav1 li.homehome{
