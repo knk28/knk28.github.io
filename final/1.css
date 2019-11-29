@@ -15,10 +15,10 @@ body {
   "nav1 nav1 nav1";
 }
 
-#homepage .mainhead {
+#mainhead {
   grid-area: mainhead;
 }
 
-#homepage .nav1{
+#nav1{
   grid-area: nav1;
 }
