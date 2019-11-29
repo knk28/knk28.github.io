@@ -5,7 +5,7 @@ body {
   background-size: cover;
 }
 
-homepage {
+#homepage {
   display: grid;
   grid-template-columns: 150px 150px;
   grid-auto-rows: repeat(2, 100px);
