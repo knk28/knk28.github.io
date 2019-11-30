@@ -189,7 +189,7 @@ body {
 
 #poem1 p{
   font-family: 'Special Elite', cursive;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 #nav4 li{
@@ -288,7 +288,7 @@ body {
 
 #poem2 p{
   font-family: 'Special Elite', cursive;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 #nav5 li{
@@ -365,7 +365,7 @@ body {
   background-color: rgba(252, 252, 245);
   padding-top: 10px;
   padding-right: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 25px;
   padding-left: 25px;
   border-color: rgba(0, 0, 0);
   border-style: solid;
