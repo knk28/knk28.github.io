@@ -38,6 +38,18 @@ body {
   font-size: 25px;
 }
 
+.homehomehome a {
+  color: rgba(0, 0, 0);
+}
+
+.mymymy a {
+  color: rgba(0, 0, 0);
+}
+
+.atp a {
+  color: rgba(0, 0, 0);
+}
+
 #nav1 li.homehome{
   background-color: rgba(252, 252,0);
   padding-top: 10px;
