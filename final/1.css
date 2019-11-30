@@ -68,3 +68,8 @@ body {
 #myworks h1 {
   font-family: 'Special Elite', cursive;
 }
+
+#myworks nav2{
+  display: inline;
+  font-family: 'Josefin Slab', serif;
+}
