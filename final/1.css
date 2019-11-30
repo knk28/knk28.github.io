@@ -126,15 +126,15 @@ body {
 }
 
 #poems h2{
-  color: rgba(0, 0, 0);
+  color: rgba(255, 255, 255);
 }
 
 .btl a{
-  color: rgba(0, 0, 0);
+  color: rgba(255, 255, 255);
 }
 
 .ewkl a{
-  color: rgba(0, 0, 0);
+  color: rgba(255, 255, 255);
 }
 
 #nav2 li.homehome {
@@ -169,10 +169,10 @@ body {
 #poems {
   box-sizing: content-box;
   width: 100%;
-  background-color: rgba(252, 252, 245);
+  background-color: rgba(0, 0, 0);
   padding-top: 10px;
-  padding-right: 275px;
-  padding-bottom: 100px;
+  padding-right: 175px;
+  padding-bottom: 150px;
   padding-left: 25px;
   border-color: rgba(0, 0, 0);
   border-style: solid;
