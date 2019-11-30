@@ -182,8 +182,8 @@ body {
   max-width: 960px;
   grid-template-areas:
   "bthead bthead nav4 nav4"
-  "poem poem poem"
-  "footerp2 footerp2 footerp2";
+  "poem poem poem poem"
+  "footerp2 footerp2 footerp2 footerp2";
 }
 
 #bthead {
