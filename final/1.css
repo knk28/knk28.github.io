@@ -90,7 +90,7 @@ body {
   grid-row-gap: 10px;
   max-width: 960px;
   grid-template-areas:
-  "mwhead mwhead"
+  "mwhead mwhead mwhead mwhead"
   "nav2 nav2 nav2 nav2"
   "poems poems poems poems"
   "poems poems poems poems";
