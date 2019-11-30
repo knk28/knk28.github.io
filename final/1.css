@@ -161,15 +161,7 @@ body {
   border-width: 2px;
 }
 
-#bt h1{
-  font-family: 'Special Elite', cursive;
-}
-
-#bt h2{
-  font-family: 'Special Elite', cursive;
-}
-
-#bt h3{
+#bt h1, h2, h3{
   font-family: 'Special Elite', cursive;
 }
 #poem1 p{
