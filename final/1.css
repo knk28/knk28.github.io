@@ -344,3 +344,31 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
 }
+
+#abpoet{
+  display: grid;
+  grid-template-columns: 220px 200px 200px 300px;
+  grid-template-rows: 100px 500px 75px ;
+  grid-row-gap: 10px;
+  max-width: 960px;
+  grid-template-areas:
+  "abhead abhead nav3 nav3"
+  "aboutthepoet aboutthepoet aboutthepoet aboutthepoet"
+  "contactinfo contactinfo contactinfo contactinfo";
+}
+
+#abhead {
+  grid-area: abhead;
+}
+
+#nav3 {
+  grid-area: nav3;
+}
+
+#aboutthepoet {
+  grid-area: aboutthepoet;
+}
+
+#contactinfo {
+  grid-area: contactinfo;
+}
