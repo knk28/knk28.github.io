@@ -165,6 +165,10 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
+#poem1 p{
+  font-size: 10px;
+}
+
 #nav4 li{
   display: inline;
   font-family: 'Josefin Slab', serif;
