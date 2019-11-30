@@ -341,6 +341,10 @@ body {
   grid-area: footerp1;
 }
 
+#nav5 {
+  margin-top: 8px;
+}
+
 #nav5 li.homehome {
   background-color: rgba(252, 252,0);
   padding-top: 10px;
@@ -433,6 +437,10 @@ body {
 
 #contactinfo {
   grid-area: contactinfo;
+}
+
+#nav3 {
+  margin-top: 8px;
 }
 
 #nav3 li.homehome {
