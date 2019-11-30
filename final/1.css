@@ -79,8 +79,9 @@ body {
 }
 
 #poemslist li{
-  display: inline;
-  font-family: 'Josefin Slab', serif;
+  list-style-type: circle;
+  font-family: 'Special Elite', cursive;
+  color: rgba(0, 0, 0);
 }
 
 #myworks{
@@ -140,12 +141,6 @@ body {
   padding-bottom: 10px;
   padding-left: 25px;
   margin-left: 25px;
-}
-
-#poemslist ul{
-  list-style-type: circle;
-  font-family: 'Special Elite', cursive;
-  color: rgba(0, 0, 0);
 }
 
 #poems {
