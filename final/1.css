@@ -143,15 +143,7 @@ body {
 }
 
 #poemslist li{
-  display: inline;
   font-family: 'Special Elite', cursive;
-}
-
-#poemslist li.btl{
-  margin-bottom: 5px;
-}
-#poemslist li.ewkl{
-  margin-top: 5px;
 }
 
 #poems {
