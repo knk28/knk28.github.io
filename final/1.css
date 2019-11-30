@@ -209,3 +209,7 @@ body {
 #footerp2 {
   grid-area: footerp2;
 }
+
+#bthead {
+  width: 100%;
+}
