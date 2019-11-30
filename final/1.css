@@ -40,7 +40,10 @@ body {
 
 #nav1 li.homehome{
   background-color: rgba(252, 252,0);
-  padding: 20px;
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-left: 25px;
   margin-left: 50px;
 }
 
