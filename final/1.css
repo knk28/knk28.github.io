@@ -122,7 +122,7 @@ body {
   margin-top: 8px;
 }
 
-#nav2, #nav3, #nav4 li.homehome {
+#nav2 li.homehome {
   background-color: rgba(252, 252,0);
   padding-top: 10px;
   padding-right: 25px;
@@ -130,7 +130,7 @@ body {
   padding-left: 25px;
 }
 
-#nav2, #nav3, #nav4  li.mymymy{
+#nav2 li.mymymy{
   background-color: rgba(97, 252, 0);
   padding-top: 10px;
   padding-right: 25px;
@@ -139,7 +139,7 @@ body {
   margin-left: 25px;
 }
 
-#nav2, #nav3, #nav4 li.atp {
+#nav2 li.atp {
   background-color: rgba(0, 244, 252);
   padding-top: 10px;
   padding-right: 25px;
@@ -222,6 +222,32 @@ body {
   border-color: rgba(0, 0, 0);
   border-style: solid;
   border-width: 2px;
+}
+
+#nav4 li.homehome {
+  background-color: rgba(252, 252,0);
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+}
+
+#nav4 li.mymymy{
+  background-color: rgba(97, 252, 0);
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  margin-left: 25px;
+}
+
+#nav4 li.atp {
+  background-color: rgba(0, 244, 252);
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  margin-left: 25px;
 }
 
 #ewkhn h1 {
