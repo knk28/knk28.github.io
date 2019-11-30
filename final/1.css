@@ -112,6 +112,6 @@ body {
   grid-area: poems;
 }
 
-#mwhead{
+#mwhead h1{
   margin-left: 50px;
 }
