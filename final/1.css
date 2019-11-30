@@ -148,7 +148,8 @@ body {
 }
 
 #poems {
-  column-count: 3;
+  box-sizing: content-box;
+  width: 100%;
   background-color: rgba(252, 252, 245);
   padding-top: 10px;
   padding-right: 25px;
