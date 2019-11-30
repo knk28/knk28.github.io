@@ -181,7 +181,7 @@ body {
   grid-row-gap: 10px;
   max-width: 960px;
   grid-template-areas:
-  "bthead bthead n"
+  "bthead bthead nav4"
   "poem poem poem"
   "poem poem poem"
   "poem poem poem"
