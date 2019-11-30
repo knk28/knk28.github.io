@@ -162,6 +162,7 @@ body {
 }
 
 #bt h1{
+  display: inline;
   font-family: 'Special Elite', cursive;
 }
 
