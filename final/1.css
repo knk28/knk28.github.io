@@ -91,7 +91,7 @@ body {
 
 #myworks{
   display: grid;
-  grid-template-columns: 200px 200px 200px;
+  grid-template-columns: 200px 200px 200px 200px;
   grid-template-rows: 100px 100px 100px 100px;
   grid-row-gap: 10px;
   max-width: 960px;
@@ -173,14 +173,15 @@ body {
 #bt{
   display: grid;
   grid-template-columns: 200px 200px 200px;
-  grid-template-rows: 100px 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px 100px 100px;
   grid-row-gap: 10px;
   max-width: 960px;
   grid-template-areas:
-  "bthead bthead nav4 nav4"
-  "poem poem poem poem"
-  "poem poem poem poem"
-  "poem poem poem poem";
+  "bthead bthead n"
+  "poem poem poem"
+  "poem poem poem"
+  "poem poem poem"
+  "footerp2 footerp2 footerp2";
 }
 
 #bthead {
