@@ -129,6 +129,10 @@ body {
   color: white;
 }
 
+.ewkl a{
+  color: white;
+}
+
 #nav2 li.homehome {
   background-color: rgba(252, 252,0);
   padding-top: 10px;
