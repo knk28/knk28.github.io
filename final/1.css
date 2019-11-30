@@ -36,19 +36,17 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
   font-size: 25px;
+  margin-top: 100px;
 }
 
 #nav1 li.homehome{
-  margin-top: 75px;
   margin-left: 50px;
 }
 
 #nav1 li.mymymy{
-  margin-top: 75px;
   margin-left: 160px;
 }
 
 #nav1 li.atp{
-  margin-top: 75px;
   margin-left: 120px;
 }
