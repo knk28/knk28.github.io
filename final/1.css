@@ -82,3 +82,16 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
 }
+
+#myworks{
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px ;
+  grid-template-rows: 100px 100px 100;
+  grid-row-gap: 10px;
+  max-width: 960px;
+  grid-template-areas:
+  "mwhead mwhead"
+  "nav2 nav2 nav2 nav2"
+  "poems poems poems poems"
+  "poems poems poems poems";
+}
