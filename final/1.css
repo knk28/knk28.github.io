@@ -147,7 +147,7 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
-#poemslist li{
+#poemslist{
   background-color: rgba(252, 252, 245);
   padding-top: 10px;
   padding-right: 25px;
