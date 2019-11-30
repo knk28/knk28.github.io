@@ -116,6 +116,10 @@ body {
   margin-left: 25px;
 }
 
+#nav2 {
+  margin-top: 25px;
+}
+
 #nav2 li.homehome {
   background-color: rgba(252, 252,0);
   padding-top: 10px;
