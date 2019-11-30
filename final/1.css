@@ -85,6 +85,10 @@ body {
   font-size: 20px;
 }
 
+#poemslist li.btl {
+  margin-bottom: 15px;
+}
+
 #myworks{
   display: grid;
   grid-template-columns: 200px 200px 200px;
