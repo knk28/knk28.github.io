@@ -169,3 +169,17 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
 }
+
+#bt{
+  display: grid;
+  grid-template-columns: repeat(4, 150px);
+  grid-template-rows: repeat(5, 100px);
+  grid-row-gap: 10px;
+  max-width: 960px;
+  grid-template-areas:
+  "bthead bthead nav4 nav4"
+  "poem poem poem poem"
+  "poem poems poems poem"
+  "poems poem poem poem"
+  "poem poem poem poem";
+}
