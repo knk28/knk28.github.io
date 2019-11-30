@@ -179,7 +179,23 @@ body {
   grid-template-areas:
   "bthead bthead nav4 nav4"
   "poem poem poem poem"
-  "poem poems poems poem"
-  "poems poem poem poem"
+  "poem poem poem poem"
+  "poem poem poem poem"
   "footerp2 footerp2 footerp2 footerp2";
+}
+
+#bthead {
+  grid-area: bthead;
+}
+
+#nav4 {
+  grid-area: nav4;
+}
+
+#poem1 {
+  grid-area: poem;
+}
+
+#footerp2 {
+  grid-area: footerp2;
 }
