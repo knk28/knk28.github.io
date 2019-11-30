@@ -181,35 +181,3 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
 }
-
-#bt{
-  display: grid;
-  grid-template-columns: 200px 200px 200px 300px;
-  grid-template-rows: 100px 500px 100px ;
-  grid-row-gap: 10px;
-  max-width: 960px;
-  grid-template-areas:
-  "bthead bthead nav4 nav4"
-  "poem poem poem poem"
-  "footerp2 footerp2 footerp2 footerp2";
-}
-
-#bthead {
-  grid-area: bthead;
-}
-
-#nav4 {
-  grid-area: nav4;
-}
-
-#bt main {
-  grid-area: poem;
-}
-
-#footerp2 {
-  grid-area: footerp2;
-}
-
-#bthead h1{
-  margin-left: 25px;
-}
