@@ -330,3 +330,17 @@ body {
   border-style: solid;
   border-width: 2px;
 }
+
+#abpoet h1 {
+  font-family: 'Special Elite', cursive;
+}
+
+#aboutthepoet p{
+  font-family: 'Special Elite', cursive;
+  font-size: 10px;
+}
+
+#nav3 li{
+  display: inline;
+  font-family: 'Josefin Slab', serif;
+}
