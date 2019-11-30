@@ -144,7 +144,7 @@ body {
 
 #poemslist li{
   font-family: 'Special Elite', cursive;
-  background-color: rgba(0, 0, 0);
+  color: rgba(0, 0, 0);
 }
 
 #poems {
