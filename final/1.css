@@ -95,3 +95,15 @@ body {
   "poems poems poems poems"
   "poems poems poems poems";
 }
+
+#mwhead {
+  grid-area: mwhead;
+}
+
+#nav2 {
+  grid-area: nav2;
+}
+
+#poems {
+  grid-area: poems;
+}
