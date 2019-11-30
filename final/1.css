@@ -146,7 +146,7 @@ body {
   margin-left: 25px;
 }
 
-#poemslist li{
-  display: inline;
+#poemslist ul{
+  list-style: circle;
   font-family: 'Special Elite', cursive;
 }
