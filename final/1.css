@@ -77,3 +77,8 @@ body {
 #myworks h2{
   font-family: 'Special Elite', cursive;
 }
+
+#poemslist {
+  display: inline;
+  font-family: 'Josefin Slab', serif;
+}
