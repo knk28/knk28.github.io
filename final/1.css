@@ -45,7 +45,7 @@ body {
   padding-bottom: 30px;
   padding-left: 25px;
   margin-left: 75px;
-  box-shadow: 10px 0px 5px rgba(110, 110, 110);
+  box-shadow: 1px 5px 5px rgba(110, 110, 110);
 }
 
 #nav1 li.mymymy{
@@ -55,6 +55,7 @@ body {
   padding-bottom: 30px;
   padding-left: 25px;
   margin-left: 50px;
+  box-shadow: 1px 5px 5px rgba(110, 110, 110);
 }
 
 #nav1 li.atp{
@@ -64,6 +65,7 @@ body {
   padding-bottom: 30px;
   padding-left: 25px;
   margin-left: 50px;
+  box-shadow: 1px 5px 5px rgba(110, 110, 110);
 }
 
 #myworks h1 {
