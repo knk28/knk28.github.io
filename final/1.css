@@ -8,7 +8,7 @@ body {
 
 #homepage {
   display: grid;
-  grid-template-columns: 225px 225px 225px;
+  grid-template-columns: 250px 250px 250px;
   grid-template-rows: 200px 150px;
   grid-row-gap: 10px;
   max-width: 960px;
