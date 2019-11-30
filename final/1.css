@@ -142,7 +142,7 @@ body {
   margin-left: 25px;
 }
 
-#poemslist li{
+#poemslist ul{
   list-style-type: circle;
   font-family: 'Special Elite', cursive;
   color: rgba(0, 0, 0);
