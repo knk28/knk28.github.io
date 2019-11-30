@@ -162,7 +162,6 @@ body {
 }
 
 #bt h1{
-  display: inline;
   font-family: 'Special Elite', cursive;
 }
 
@@ -183,17 +182,16 @@ body {
   font-family: 'Josefin Slab', serif;
 }
 
-#bt {
+#bt{
   display: grid;
   grid-template-columns: 200px 200px 200px 300px;
-  grid-template-rows: 100px 100px 100px 100px;
+  grid-template-rows: 100px 500px 100px ;
   grid-row-gap: 10px;
   max-width: 960px;
   grid-template-areas:
   "bthead bthead nav4 nav4"
   "poem poem poem poem"
-  "poem poem poem poem"
-  "footer footer footer footer";
+  "footerp2 footerp2 footerp2 footerp2";
 }
 
 #bthead {
@@ -205,9 +203,9 @@ body {
 }
 
 #bt main {
-grid-area: poem;
+  grid-area: poem;
 }
 
 #footerp2 {
-  grid-area: footer;
+  grid-area: footerp2;
 }
