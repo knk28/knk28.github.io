@@ -181,3 +181,8 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
 }
+
+#bt {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 300px;
+}
