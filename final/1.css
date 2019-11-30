@@ -197,6 +197,11 @@ body {
   font-family: 'Josefin Slab', serif;
 }
 
+#ptf li{
+  display: inline;
+  font-family: 'Josefin Slab', serif;
+}
+
 #bt{
   display: grid;
   grid-template-columns: 220px 200px 200px 300px;
@@ -287,6 +292,11 @@ body {
 #nav5 li{
   display: inline;
   font-family: 'Josefin Slab', serif;
+}
+
+#p1f li{
+    display: inline;
+    font-family: 'Josefin Slab', serif;
 }
 
 #ewkhn{
