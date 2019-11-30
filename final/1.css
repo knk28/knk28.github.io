@@ -119,11 +119,14 @@ body {
 
 #mwhead h1{
   margin-left: 25px;
-  color: white;
 }
 
 #nav2 {
   margin-top: 8px;
+}
+
+#poems h2{
+  color: white;
 }
 
 .btl a{
