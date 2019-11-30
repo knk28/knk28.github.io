@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Oswald|Special+Elite&display=swap');
 
 body {
   background-image: url('/Images/background.png');
@@ -144,4 +144,9 @@ body {
   padding-bottom: 10px;
   padding-left: 25px;
   margin-left: 25px;
+}
+
+#poemslist li{
+  display: inline;
+  font-family: 'Oswald', sans-serif;
 }
