@@ -160,3 +160,12 @@ body {
   border-style: solid;
   border-width: 2px;
 }
+
+#bt h1, h2, h3, p{
+  font-family: 'Special Elite', cursive;
+}
+
+#nav4 li{
+  display: inline;
+  font-family: 'Josefin Slab', serif;
+}
