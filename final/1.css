@@ -263,3 +263,31 @@ body {
   display: inline;
   font-family: 'Josefin Slab', serif;
 }
+
+#ewkhn{
+  display: grid;
+  grid-template-columns: 220px 200px 200px 300px;
+  grid-template-rows: 100px 500px 75px ;
+  grid-row-gap: 10px;
+  max-width: 960px;
+  grid-template-areas:
+  "p2head p2head nav5 nav5"
+  "poem poem poem poem"
+  "footerp1 footerp1 footerp1 footerp1";
+}
+
+#p2head {
+  grid-area: p2head;
+}
+
+#nav5 {
+  grid-area: nav5;
+}
+
+#ewkhn main {
+  grid-area: poem;
+}
+
+#footerp1 {
+  grid-area: footerp1;
+}
