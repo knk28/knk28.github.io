@@ -143,6 +143,7 @@ body {
 }
 
 #poemslist li{
+  list-style-type: circle;
   font-family: 'Special Elite', cursive;
   color: rgba(0, 0, 0);
 }
