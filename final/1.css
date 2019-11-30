@@ -14,7 +14,7 @@ body {
   max-width: 960px;
   grid-template-areas:
   "mainhead mainhead mainhead"
-  "nav1 nav1 nav1";
+  "nav11 nav12 nav13";
 }
 
 #mainhead {
@@ -25,10 +25,6 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
-#nav1{
-  grid-area: nav1;
-}
-
 #nav1 li{
   display: inline;
   font-family: 'Josefin Slab', serif;
@@ -37,12 +33,15 @@ body {
 
 #nav1 li.homehome{
   margin-left: 50px;
+  grid-area: nav11;
 }
 
 #nav1 li.mymymy{
   margin-left: 75px;
+  grid-area: nav12;
 }
 
 #nav1 li.atp{
   margin-left: 75px;
+  grid-area: nav13; 
 }
