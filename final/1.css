@@ -134,6 +134,10 @@ body {
   box-shadow: 1px 5px 5px rgba(110, 110, 110);
 }
 
+#nav2 li.homehome:link {
+  color: rgba(255, 255, 255);
+}
+
 #nav2 li.mymymy{
   background-color: rgba(97, 252, 0);
   padding-top: 10px;
