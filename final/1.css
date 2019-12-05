@@ -12,6 +12,7 @@ body {
   grid-template-rows: 200px 150px;
   grid-row-gap: 10px;
   max-width: 960px;
+  margin: 0 auto;
   grid-template-areas:
   "mainhead mainhead mainhead"
   "nav1 nav1 nav1";
