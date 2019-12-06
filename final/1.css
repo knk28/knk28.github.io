@@ -25,7 +25,7 @@ body {
 #mainhead h1{
   font-family: 'Special Elite', cursive;
   font-size: 72px;
-  margin-left: auto;
+  margin-left: 3.5px;
   margin-top: 80px;
 }
 
@@ -57,7 +57,7 @@ body {
   padding-right: 25px;
   padding-bottom: 30px;
   padding-left: 25px;
-  margin: auto;
+  margin: -30px;
   box-shadow: 1px 5px 5px rgba(110, 110, 110);
 }
 
