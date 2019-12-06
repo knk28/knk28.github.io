@@ -317,13 +317,12 @@ body {
 #ewkhn{
   display: grid;
   grid-template-columns: 220px 200px 200px 300px;
-  grid-template-rows: 100px 500px 75px ;
+  grid-template-rows: 100px 500px;
   grid-row-gap: 10px;
   max-width: 960px;
   grid-template-areas:
   "p2head p2head nav5 nav5"
-  "poem poem poem poem"
-  "footerp1 footerp1 footerp1 footerp1";
+  "poem poem poem poem";
 }
 
 #p2head {
@@ -336,10 +335,6 @@ body {
 
 #ewkhn main {
   grid-area: poem;
-}
-
-#footerp1 {
-  grid-area: footerp1;
 }
 
 #p2head {
@@ -412,12 +407,8 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
-#contactinfo h4, p{
+#aboutthepoet h4{
   font-family: 'Special Elite', cursive;
-}
-
-#contactinfo p{
-  font-size: 15px;
 }
 
 #abpoet{
