@@ -57,7 +57,7 @@ body {
   padding-right: 25px;
   padding-bottom: 30px;
   padding-left: 25px;
-  margin: -30px;
+  margin-left: -30px;
   box-shadow: 1px 5px 5px rgba(110, 110, 110);
 }
 
@@ -209,21 +209,15 @@ body {
   font-family: 'Josefin Slab', serif;
 }
 
-#p2f li{
-  display: inline;
-  font-family: 'Josefin Slab', serif;
-}
-
 #bt{
   display: grid;
   grid-template-columns: 220px 200px 200px 300px;
-  grid-template-rows: 100px 500px 75px ;
+  grid-template-rows: 100px 500px;
   grid-row-gap: 10px;
   max-width: 960px;
   grid-template-areas:
   "bthead bthead nav4 nav4"
-  "poem poem poem poem"
-  "footerp2 footerp2 footerp2 footerp2";
+  "poem poem poem poem";
 }
 
 #bthead {
@@ -236,10 +230,6 @@ body {
 
 #bt main {
   grid-area: poem;
-}
-
-#footerp2 {
-  grid-area: footerp2;
 }
 
 #bthead h1 {
