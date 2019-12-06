@@ -406,6 +406,13 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
+#aboutthepoet li{
+  list-style-type: circle;
+  font-family: 'Special Elite', cursive;
+  color: rgba(0, 0, 0);
+  font-size: 20px;
+}
+
 #abpoet{
   display: grid;
   grid-template-columns: 220px 200px 200px 300px;
@@ -427,10 +434,6 @@ body {
 
 #aboutthepoet {
   grid-area: aboutthepoet;
-}
-
-#contactinfo {
-  grid-area: contactinfo;
 }
 
 #abhead {
